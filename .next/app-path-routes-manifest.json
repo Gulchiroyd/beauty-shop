@@ -1,0 +1,16 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/admin/categories/page": "/admin/categories",
+  "/admin/customers/page": "/admin/customers",
+  "/admin/orders/page": "/admin/orders",
+  "/admin/page": "/admin",
+  "/admin/products/page": "/admin/products",
+  "/admin/slider/page": "/admin/slider",
+  "/brands/[brand]/page": "/brands/[brand]",
+  "/cart/page": "/cart",
+  "/checkout/page": "/checkout",
+  "/page": "/",
+  "/product/[id]/page": "/product/[id]",
+  "/shop/page": "/shop"
+}
